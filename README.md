@@ -10,7 +10,9 @@ Our stakeholders,  in this case the homeowners, aim to find out what factors wou
 Research objective
 
 To assess the factors that highly influence house prices and the impact they would have when renovating houses
+
 To come up with a model that would try to explain the relationship between the highly predicting factors of house pricing
+
 To use this information in making informed recommendations for the stakeholders to use in their decision making
 
 
