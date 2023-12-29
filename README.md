@@ -1,8 +1,10 @@
 # Group-3-Phase_two_project
 Business problem
+
 To assess the major factors that influence house prices and make informed decisions based on the findings.
 
 Business understanding 
+
 Our stakeholders,  in this case the homeowners, aim to find out what factors would influence the pricing of houses and the data scientists have decided to use the data available to analyse this problem and come up with insights that would be beneficial for the stakeholders.
 
 Research objective
