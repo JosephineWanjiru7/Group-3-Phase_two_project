@@ -22,7 +22,7 @@
 
 **The Data**
 
-- For this project, we use the King County House Sales dataset, which can be found in kc_house_data.csv in the data folder in this GitHub repository.
+- For this project, we used the King County House Sales dataset, which can be found in kc_house_data.csv in the data folder in this GitHub repository.
 
 **Methods**
 
@@ -54,6 +54,6 @@
 
   **For more information**
 
-- Kindly check the Jupyter Notebook or review the presentation for moe information about the project.
+- Kindly check the Jupyter Notebook or review the presentation for more information about the project.
   
  
